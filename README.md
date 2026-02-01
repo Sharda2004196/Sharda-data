@@ -1,8 +1,22 @@
-## Hi, I'm Sharda! 
+Hi, I'm Sharda 👋
 
-I'm a data science enthusiast with a passion for building ML models, exploring data, and working on real-world projects. 
+I am a student of Artificial Intelligence and Data Science with a strong interest in data analysis, machine learning, and problem-solving.
 
-- 🔭 Currently learning: Deep Learning & SQL  
-- 💻 Tools: Python, Pandas, NumPy, Matplotlib, scikit-learn, Git  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sharda-vatsal-bhat-73b037295) | shardavatsalbhat@gmail.com
-- ✨ Fun fact: I love mixing code with creativity.
+### Tech Interests
+- Python
+- Data Analysis
+- Machine Learning
+- Artificial Intelligence
+- SQL
+
+### What I'm working on
+- Data Science and Machine Learning projects
+- Improving problem-solving and code quality
+
+### Open to
+- Internships
+- Entry-level roles
+
+📫 Contact  
+- Email: shardavatsalbhat@gmail.com
+- LinkedIn: https://linkedin.com/in/sharda-vatsal-bhat-73b037295
