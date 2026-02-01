@@ -2,12 +2,18 @@ Hi, I'm Sharda 👋
 
 I am a student of Artificial Intelligence and Data Science with a strong interest in data analysis, machine learning, and problem-solving.
 
-### Tech Interests
+### Core Skills
 - Python
 - Data Analysis
 - Machine Learning
 - Artificial Intelligence
 - SQL
+
+### Backend & Web
+- PHP
+- React
+- JavaScript
+- Wordpress
 
 ### What I'm working on
 - Data Science and Machine Learning projects
