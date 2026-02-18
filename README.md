@@ -1,6 +1,6 @@
 Hi, I'm Sharda 👋
 
-I am a student of Artificial Intelligence and Data Science with a strong interest in data analysis, machine learning, and problem-solving.
+I am a student of Artificial Intelligence and Data Science with a strong interest in data science, Artificial Intelligence, Machine learning, and problem-solving.
 
 ### Core Skills
 - Python
